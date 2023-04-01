@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.github.dozermapper.core.Mapper"/>
+    <fullyQualifiedTypeName name="com.github.dozermapper.core.DozerBeanMapperBuilder"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.com.erudio.mapper.DozerMapper"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.WebMvcConfigurer"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter"/>
+    <fullyQualifiedTypeName name="org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.dataformat.yaml.YAMLMapper"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonInclude"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonInclude.Include"/>
+    <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+    <fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
+    <fullyQualifiedTypeName name="br.com.erudio.util.MediaType"/>
+    <fullyQualifiedTypeName name="br.com.erudio.serialization.converter.YamlJackson2HttpMesageConverter"/>
+    <fullyQualifiedTypeName name="org.hibernate.boot.jaxb.hbm.internal.RepresentationModeConverter"/>
+    <fullyQualifiedTypeName name="org.springframework.hateoas.RepresentationModel"/>
+    <fullyQualifiedTypeName name="com.github.dozermapper.core.Mapping"/>
+    <fullyQualifiedTypeName name="br.com.erudio.data.vo.v1.PersonVO"/>
+    <fullyQualifiedTypeName name="org.springframework.hateoas.server.mvc.WebMvcLinkBuilder"/>
+    <fullyQualifiedTypeName name="br.com.erudio.controllers.PersonController"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonPropertyOrder"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.TestInstance"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.TestInstance.Lifecycle"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.extension.ExtendWith"/>
+    <fullyQualifiedTypeName name="br.com.erudio.services.PersonServices"/>
+    <fullyQualifiedTypeName name="br.com.erudio.unittests.mapper.mocks.MockPerson"/>
+    <fullyQualifiedTypeName name="org.mockito.junit.jupiter.MockitoExtension"/>
+    <fullyQualifiedTypeName name="org.mockito.MockitoAnnotations"/>
+    <fullyQualifiedTypeName name="org.mockito.Mockito"/>
+    <fullyQualifiedTypeName name="br.com.erudio.repositories.PersonRepository"/>
+    <fullyQualifiedTypeName name="org.mockito.Mock"/>
+    <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="br.com.erudio.exceptions.RequiredObjectIsNullException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.erudio.model.Person"/>
+</qualifiedTypeNameHistroy>

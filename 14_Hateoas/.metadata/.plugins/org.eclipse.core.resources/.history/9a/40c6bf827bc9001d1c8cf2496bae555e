@@ -1,0 +1,5 @@
+package br.com.erudio.util;
+
+public class MediaType {
+
+}

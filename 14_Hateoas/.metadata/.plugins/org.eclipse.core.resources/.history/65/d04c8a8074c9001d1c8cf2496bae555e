@@ -1,0 +1,9 @@
+package br.com.erudio.serialization.converter;
+
+import org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter;
+
+public class YamlJackson2HttpMesageConverter extends AbstractJaxb2HttpMessageConverter{
+	
+	
+
+}
