@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.github.dozermapper.core.Mapper"/>
+    <fullyQualifiedTypeName name="com.github.dozermapper.core.DozerBeanMapperBuilder"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.com.erudio.mapper.DozerMapper"/>
+    <fullyQualifiedTypeName name="br.com.erudio.data.vo.v1.PersonVO"/>
+    <fullyQualifiedTypeName name="br.com.erudio.model.Person"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.WebMvcConfigurer"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.http.converter.xml.AbstractJaxb2HttpMessageConverter"/>
+    <fullyQualifiedTypeName name="org.springframework.http.converter.json.AbstractJackson2HttpMessageConverter"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.dataformat.yaml.YAMLMapper"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonInclude"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonInclude.Include"/>
+    <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+    <fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
+    <fullyQualifiedTypeName name="br.com.erudio.util.MediaType"/>
+    <fullyQualifiedTypeName name="br.com.erudio.serialization.converter.YamlJackson2HttpMesageConverter"/>
+</qualifiedTypeNameHistroy>
