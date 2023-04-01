@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.github.dozermapper.core.Mapper"/>
+    <fullyQualifiedTypeName name="com.github.dozermapper.core.DozerBeanMapperBuilder"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.com.erudio.mapper.DozerMapper"/>
+    <fullyQualifiedTypeName name="br.com.erudio.data.vo.v1.PersonVO"/>
+    <fullyQualifiedTypeName name="br.com.erudio.model.Person"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonPropertyOrder"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+</qualifiedTypeNameHistroy>
