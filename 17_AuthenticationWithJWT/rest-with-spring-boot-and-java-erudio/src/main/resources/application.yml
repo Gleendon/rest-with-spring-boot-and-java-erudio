@@ -3,13 +3,6 @@
 cors:
   originPatterns: http://localhost:3000,http://localhost:8080,https://erudio.com.br
 
-#Configurações de segurança chave secreta e duração do token(1hr) 
-security:
-  jwt:
-    token:
-      secret-key: 53cr37
-      expire-length: 3600000 
-
 #Configuração da integração com o banco de dados
 spring:
   datasource:
@@ -27,8 +20,6 @@ spring:
 
 #Configuração da documentação utilizando swagger
 springdoc:
-  pathsToMatch: 
-    - /auth/**
-    - /api/**/v1/**
+  pathsToMatch: /api/**/v1/**
   swagger-ui:
     use-root-path: true
